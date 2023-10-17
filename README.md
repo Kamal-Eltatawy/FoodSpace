@@ -1,5 +1,5 @@
 # FoodSpace
-"Akalat is an Angular-based food website that connects to a JSON API, offering users a seamless experience to explore, manage, and enjoy a wide variety of food products, complete with CRUD operations"
+"FoodSpace is an Angular-based food website that connects to a JSON API, offering users a seamless experience to explore, manage, and enjoy a wide variety of food products, complete with CRUD operations"
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
